@@ -1,14 +1,14 @@
 {
   "site": {
     "title": "Mediadora Familiar",
-    "base_url": "https://bigspring-light-astro.vercel.app",
+    "base_url": "https://www.mediadorafamiliar.cl",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.svg",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "38",
-    "logo_text": "Astroplate"
+    "logo_text": "Mediadora familiar"
   },
 
   "settings": {
@@ -31,7 +31,7 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Irma Valdés Arias",
     "meta_image": "/images/og-image.png",
     "meta_description": "astro boilerplate"
   }

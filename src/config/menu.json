@@ -1,7 +1,7 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
@@ -9,7 +9,7 @@
       "url": "/blog"
     },
     {
-      "name": "Pricing",
+      "name": "Precios",
       "url": "/pricing"
     },
     {
