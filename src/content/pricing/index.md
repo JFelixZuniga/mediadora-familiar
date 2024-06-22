@@ -1,6 +1,6 @@
 ---
-title: Pricing
-description: "meta description"
+title: Precios
+description: "Precio del servicio de mediación frustrada y con acuerdo."
 draft: false
 plans:
 - title: Basic Plan
@@ -43,12 +43,12 @@ plans:
     link: "/contact"
 
 call_to_action:
-  title: Need a larger plan?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  title: ¿Necesitas más información?
+  content: Si tienes dudas respecto del servicio de mediación familiar, te invito a escribirme al Whatsapp.
   image: '/images/cta.png'
   button:
     enable: true
-    label: "Contact Us"
-    link: "/contact"
+    label: "Whatsapp"
+    link: "https://api.whatsapp.com/send?phone=56951335508"
     
 ---

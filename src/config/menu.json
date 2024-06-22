@@ -30,7 +30,7 @@
       "name": "Company",
       "menu": [
         {
-          "text": "Pricing",
+          "text": "Precios",
           "url": "/pricing"
         },
         {
@@ -51,7 +51,7 @@
           "url": "#"
         },
         {
-          "text": "Pricing",
+          "text": "Precios",
           "url": "/pricing"
         }
       ]
