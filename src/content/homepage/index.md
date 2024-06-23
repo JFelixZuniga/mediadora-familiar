@@ -43,8 +43,8 @@ services:
       - "/images/service-slide-3.svg"
     button:
       enable: true
-      label: Check it out
-      link: /contact
+      label: Más información aquí
+      link: /blog/blog-5
   
   - title: "Relación direta y regular (visitas)."
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
@@ -54,8 +54,8 @@ services:
       - "/images/service-slide-3.svg"
     button:
       enable: true
-      label: Check it out
-      link: /contact
+      label: Más información aquí
+      link: /blog/blog-4
 
   - title: "Cuidado personal de los hijos."
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
@@ -65,8 +65,8 @@ services:
       - "/images/service-slide-3.svg"
     button:
       enable: true
-      label: Check it out
-      link: /contact
+      label: Más información aquí
+      link: /blog/blog-3
 
   - title: "It is a privately owned Information and cyber security company"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
@@ -89,7 +89,7 @@ workflow:
 call_to_action:
   title: ¿Necesitas más información?
   content: Si tienes dudas respecto del servicio de mediación familiar, te invito a escribirme al Whatsapp.
-  image: '/images/cta.png'
+  image: '/images/cta.svg'
   button:
     enable: true
     label: "Whatsapp"

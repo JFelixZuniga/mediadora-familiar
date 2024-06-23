@@ -1,49 +1,74 @@
 ---
 import Base from "@/layouts/Base.astro";
 import Cta from "@/layouts/components/Cta.astro";
-import type { TPostType, TPlan } from "@/types";
+import { Image } from "astro:assets";
+import type { TPostType, TTexts, TJurisdiction } from "@/types";
 import { getEntryBySlug } from "astro:content";
 
 const entry = (await getEntryBySlug("pricing", "index")) as TPostType;
-const { title, description, plans, call_to_action } = entry.data;
+const { title, description, image, texts, tribunal, jurisdiction, call_to_action } = entry.data;
 ---
 
 <Base title={title} description={description}>
   <section class="section pb-0">
     <div class="container">
       <h1 class="text-center font-normal">{title}</h1>
-      <div class="section row -mt-10 justify-center md:mt-0">
-        {
-          plans?.map((plan: TPlan) => (
-            <div
-              class={`col-12 md:col-4 ${
-                !plan.recommended ? "lg:px-0" : "col-recommended"
-              }`}
-            >
-              <div class="card text-center">
-                <h4>{plan.title}</h4>
-                <div class="mt-5">
-                  <span class="text-5xl text-dark">${plan.price}</span>
-                  <span>/ {plan.type}</span>
+      <div class="pb-12">
+        <div class="row col-12 pb-5 pt-16 mx-auto">
+          <div class="md:col-6 w-full">
+            <Image
+              class=""
+              src={image}
+              width={750}
+              height={390}
+              alt="Video llamada entre varias personas"
+            />
+          </div>
+          <div class="md:col-6 pt-10 sm:pt-0">
+            {
+              texts?.map((texts: TTexts) => (
+                <h2 class="h3 mb-2 mt-4 text-center sm:text-left">{texts.title}</h2>
+                <p>{texts.text}</p>
+              ))
+            }
+          </div>
+        </div>
+      </div>
+
+      <div class="-mb-7">
+        <h3 class="text-center font-normal -mb-10">{tribunal}</h3>
+        <div class="section row gap-y-5 justify-center md:mt-0">
+          {
+            jurisdiction?.map((plan: TJurisdiction) => (
+              <div class={`col-12 md:col-4`}>
+                <div class="card text-center">
+                  <h4>{plan.title}</h4>
+                  <ul class="mt-5 text-left">
+                    {plan?.comunas?.map((feature, index) => (
+                      <li class="mb-[10px] leading-5 flex items-center">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="24"
+                          height="24"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="#0aa8a7"
+                          stroke-width="2"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          class="w-6 h-6 text-primary"
+                        >
+                          <path d="M20 6 9 17l-5-5"></path>
+                        </svg>
+                        <p class="ml-2">{feature}</p>
+                      </li>
+                    ))}
+                  </ul>
                 </div>
-                <h5 class="mt-2 font-normal text-text">{plan.subtitle}</h5>
-                <ul class="mt-5">
-                  {plan?.features?.map((feature, index) => (
-                    <li class="mb-[10px] leading-5">{feature}</li>
-                  ))}
-                </ul>
-                <a
-                  class={`btn mt-5 ${
-                    plan.recommended ? "btn-primary" : "btn-outline-primary"
-                  }`}
-                  href={plan.button.link}
-                >
-                  {plan.button.label}
-                </a>
               </div>
-            </div>
-          ))
-        }
+            ))
+          }
+        </div>
       </div>
     </div>
   </section>

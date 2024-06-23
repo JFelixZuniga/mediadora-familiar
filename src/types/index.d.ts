@@ -45,22 +45,23 @@ export type TPostType = {
     faqs: FaqItem[];
     description?: string;
     call_to_action?: TCallToAction;
-    plans?: TPlan[];
+    image: string;
+    texts: TTexts[];
+    tribunal: string;
+    jurisdiction?: TJurisdiction[];
   };
 };
 
-export type TPlan = {
+export type TTexts = {
   title: string;
-  subtitle: string;
-  price: number;
-  recommended: boolean;
-  type: string;
-  features: string[];
-  button: {
-    label: string;
-    link: string;
-  };
-};
+  text: string;
+}
+
+export type TJurisdiction = {
+  title: string;
+  comunas: string[];
+}
+
 
 export type TCallToAction = {
   title: string;
