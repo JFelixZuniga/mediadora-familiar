@@ -27,49 +27,65 @@
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "Servicio",
       "menu": [
         {
-          "text": "Precios",
-          "url": "/pricing"
-        },
-        {
-          "text": "Quick Start",
-          "url": "#"
-        }
-      ]
-    },
-    {
-      "name": "Product",
-      "menu": [
-        {
-          "text": "Features",
-          "url": "#"
-        },
-        {
-          "text": "Platform",
-          "url": "#"
+          "text": "Blog",
+          "url": "/blog"
         },
         {
           "text": "Precios",
           "url": "/pricing"
-        }
-      ]
-    },
-    {
-      "name": "Support",
-      "menu": [
+        },
         {
-          "text": "FAQ",
+          "text": "Contacto",
+          "url": "/contact"
+        },
+        {
+          "text": "Preguntas frecuentes",
           "url": "/faq"
+        }
+      ]
+    },
+    {
+      "name": "Saber más",
+      "menu": [
+        {
+          "text": "Mediación obligatoria",
+          "url": "/blog/index"
         },
         {
-          "text": "Privacy Policy",
-          "url": "/privacy-policy"
+          "text": "Pensión de alimentos",
+          "url": "/blog/blog-5"
         },
         {
-          "text": "Terms & Conditions",
-          "url": "/terms-conditions"
+          "text": "Cuidado personal",
+          "url": "/blog/blog-3"
+        },
+        {
+          "text": "Relación directa y regular",
+          "url": "/blog/blog-4"
+        }
+      ]
+    },
+    {
+      "name": "Enlaces de Interés",
+      "menu": [
+        {
+          "text": "Poder Judicial",
+          "url": "#"
+        },
+        {
+          "text": "Oficina Judicial Virtual",
+          "url": "https://oficinajudicialvirtual.pjud.cl/home/index.php"
+        },
+        {
+          "text": "Mediación Chile",
+          "url": "https://www.mediacionchile.gob.cl/"
+        },
+        {
+          "text": "Trámite Fácil",
+          "url": "https://ojv.pjud.cl/kpitec-ojv-web/tramite_facil"
         }
       ]
     }

@@ -7,9 +7,9 @@ texts:
 - title: Mediación con acuerdo 
   text: "El servicio de mediación tiene un valor de $90.000, ya sea en el caso de existir un acuerdo total o parcial de las partes."
 - title: Mediación frustrada
-  text: "Si por el contrario, las partes no se llega a ningún acuerdo, el valor de la mediación frustrada es de $45.000."
+  text: "Si por el contrario, las partes no llegan a ningún acuerdo, el valor de la mediación frustrada es de $45.000."
 - title: "En que consiste el servicio"
-  text: "La sesión de mediación se realiza vía telemática por la plataforma Google Meets, teniendo una duración de máxima de 1 hora con 30 minutos. Fuera del proceso de mediación, me preocupo de resolver todas tus dudas y asesorarte legalmente, con el fin de entregar las herramientas para abordar el proceso."
+  text: "La sesión de mediación se realiza vía telemática por la plataforma Google Meets, teniendo una duración máxima de 1 hora con 30 minutos. Fuera del proceso de mediación, me preocupo de resolver todas tus dudas y asesorarte legalmente, con el fin de entregar las herramientas para abordar el proceso."
 tribunal: "Tengo jurisdicción para mediar en los siguientes Tribunales de Familia:"
 jurisdiction:
 - title: Santiago

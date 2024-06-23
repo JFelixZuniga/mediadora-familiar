@@ -1,6 +1,6 @@
 ---
-title: "Últimas entradas"
-description: "this is meta description"
+title: "¿Es obligatoria la mediación familiar?"
+description: "Casos de mediación familiar obligatoria"
 image: "/images/blog-4.jpg"
 date: 2022-08-04T05:00:00Z
 draft: false
