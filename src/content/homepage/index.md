@@ -22,7 +22,7 @@ feature:
     content: "Evita las largas esperas y agiliza la resolución de conflictos familiares. Los procedimientos judiciales pueden alargarse durante meses o incluso años."
   - name: "Solución personalizada"
     icon: "/images/user-clock.svg"
-    content: "La mediación adapta las soluciones a las circunstancias y necesidades específicas de cada familia, prmitiendo que diseñen su futuro de manera consensuada."
+    content: "La mediación adapta las soluciones a las circunstancias y necesidades específicas de cada familia, permitiendo que diseñen su futuro de manera consensuada."
   - name: "Mejora la comunicación"
     icon: "/images/love.svg"
     content: "Promueve la búsqueda de acuerdos consensuados que favorezcan la armonía familiar a largo plazo."
