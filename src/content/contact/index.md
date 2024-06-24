@@ -1,12 +1,12 @@
 ---
-title: "Contact Us"
+title: "Contáctame"
 draft: false
 info: 
-  title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+  title: ¿Por qué deberías contactarme?
+  description: Como mediadora familiar, te ayudaré a resolver tu conflicto familiar de manera pacífica y constructiva. Te ofrezco un asesoramiento personalizado y un espacio seguro en el cual puedan encontrar soluciones duraderas.
   contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "Teléfono: +569 51335508"
+    - "Correo: [isvaldes.mediaciones@gmail.com](mailto:isvaldes.mediaciones@gmail.com)"
+    - "Dirección: Santiago, Región Metropolitana, Chile"
 ---
 

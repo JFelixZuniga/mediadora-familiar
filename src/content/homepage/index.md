@@ -81,8 +81,8 @@ services:
 
 # workflow
 workflow: 
-  title: "Experience the best workflow with us"
-  image: "/images/banner.png"
+  title: "Experimenta un servicio de calidad conmigo."
+  image: "/images/banner-art2.svg"
   description: ""
 
 # call_to_action

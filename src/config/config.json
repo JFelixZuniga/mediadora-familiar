@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Mediadora Familiar",
+    "title": "Servicio de Mediación Familiar - Irma Valdés Arias",
     "base_url": "https://www.mediadorafamiliar.cl",
     "base_path": "/",
     "trailing_slash": false,
@@ -8,7 +8,8 @@
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "38",
-    "logo_text": "Logo de Mediadora familiar"
+    "logo_text": "Logo de Mediadora familiar",
+    "canonical": "https://www.mediadorafamiliar.cl/"
   },
 
   "settings": {
@@ -27,12 +28,12 @@
     "contact_form_action": "",
     "tag_manager_id": "",
     "footer_content": "Irma Valdés Arias, abogada y mediadora familiar. Dedicada a la solución pacífica y justa para conflictos familiares.",
-    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+    "copyright": ""
   },
 
   "metadata": {
     "meta_author": "Irma Valdés Arias",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro boilerplate"
+    "meta_description": "Mediación Familiar, Región Metropolitana, Chile"
   }
 }

@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Disallow: /api/*
+Disallow: /scribd/document/*
+Disallow: /scribd/*
