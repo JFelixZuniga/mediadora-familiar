@@ -25,10 +25,9 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
 <Base title={postIndex?.data.title}>
   <section class="section">
     <div class="container">
-      <h1
-        class="text-center font-normal lg:text-[56px]"
-        set:html={markdownify(postIndex?.data.title)}
-      />
+      <h1 class="text-center font-normal lg:text-[56px]">
+        Últimas entradas del blog
+      </h1>
       <div class="row pb-12">
         <div class="row col-12 pb-24 pt-16">
           <div class="md:col-6">

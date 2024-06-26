@@ -74,6 +74,6 @@ call_to_action:
   button:
     enable: true
     label: "Whatsapp"
-    link: "https://api.whatsapp.com/send?phone=56951335508"
+    link: "https://api.whatsapp.com/send?phone=56920418721"
     
 ---

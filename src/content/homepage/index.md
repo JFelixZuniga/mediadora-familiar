@@ -1,9 +1,9 @@
 ---
 banner:
-  title: Servicio de Mediación Familiar
+  title: Mediación Familiar
   content: Irma Valdés Arias, abogada y mediadora familiar.
   content_two:  Como mediadora familiar, ayudo a las familias a resolver sus conflictos de manera pacífica y constructiva. Ofrezco asesoramiento personalizado y un espacio seguro para que puedan encontrar soluciones duraderas.
-  image: /images/banner-art.png
+  image: /images/banner-art.svg
   button:
     label: "Hablemos"
     link: "/contact"
@@ -35,8 +35,19 @@ feature:
 
 # services
 services:
-  - title: "Pensión de alimentos."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Construyendo Puentes: Encuentra Soluciones en la Mediación Familiar"
+    content: "¿Enfrentando conflictos familiares? Como mediadora profesional, ofrezco un espacio seguro y neutral para resolver disputas. Mi objetivo es facilitar la comunicación y encontrar soluciones equitativas. La mediación familiar es una alternativa eficaz a los litigios judiciales, que pueden ser costosos, prolongados y generar más tensión en la familia. ¡Juntos podemos construir puentes hacia la armonía familiar!"
+    images: 
+      - "/images/service-slide-4.svg"
+    seo: 
+      - "Padre sosteniendo a hija"
+    button:
+      enable: false
+      label: Ejaaaale
+      link: /contact
+
+  - title: "Pensión de alimentos"
+    content: "La pensión de alimentos es un derecho fundamental establecido por ley en Chile, que busca garantizar el bienestar de los hijos e hijas durante su etapa de crecimiento y desarrollo. Este derecho recae sobre el padre o madre que no tiene el cuidado personal de los niños, y tiene como objetivo principal proveerles los recursos necesarios para cubrir sus necesidades básicas, como alimentación, educación, salud y vestimenta."
     images:
       - "/images/service-slide-1.svg"
       - "/images/service-slide-2.svg"
@@ -44,40 +55,29 @@ services:
     button:
       enable: true
       label: Más información aquí
-      link: /blog/blog-5
+      link: /blog/blog-1
   
-  - title: "Relación direta y regular (visitas)."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Relación direta y regular (visitas)"
+    content: "El padre que no tenga el cuidado personal de los hijos, tendrá el derecho y deber de mantener una relación directa y regular con estos. El objetivo de este derecho es mantener una relación sana y cercana entre el padre o madre que no ejerce el cuidado personal y su hijo, velando siempre por el interés superior de este último."
     images:
       - "/images/service-slide-5.svg"
-      - "/images/service-slide-6.svg"
       - "/images/service-slide-3.svg"
+      - "/images/service-slide-6.svg"
     button:
       enable: true
       label: Más información aquí
-      link: /blog/blog-4
+      link: /blog/blog-2
 
-  - title: "Cuidado personal de los hijos."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Cuidado personal de los hijos"
+    content: "El cuidado personal puede ser ejercido por ambos padres o solo uno de ellos. Si deciden de mutuo acuerdo, pueden optar por que corresponda al padre, a la madre o a ambos de forma compartida. En caso de acuerdo, ambos padres pueden inscribir directamente el cuidado personal compartido en el Registro Civil con sus cédulas de identidad, o hacerlo mediante escritura pública o mediación."
     images:
       - "/images/service-slide-7.svg"
       - "/images/service-slide-2.svg"
-      - "/images/service-slide-3.svg"
+      - "/images/service-slide-8.svg"
     button:
       enable: true
       label: Más información aquí
       link: /blog/blog-3
-
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images: 
-      - "/images/service-slide-4.svg"
-    seo: 
-      - "Padre sosteniendo a hija"
-    button:
-      enable: true
-      label: Ejaaaale
-      link: /contact
 
 # workflow
 workflow: 
@@ -93,5 +93,5 @@ call_to_action:
   button:
     enable: true
     label: "Whatsapp"
-    link: "https://api.whatsapp.com/send?phone=56951335508"
+    link: "https://api.whatsapp.com/send?phone=56920418721"
 ---

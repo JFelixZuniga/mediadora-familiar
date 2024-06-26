@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Servicio de Mediación Familiar - Irma Valdés Arias",
+    "title": "Mediadora Familiar - Irma Valdés Arias",
     "base_url": "https://www.mediadorafamiliar.cl",
     "base_path": "/",
     "trailing_slash": false,
@@ -34,6 +34,6 @@
   "metadata": {
     "meta_author": "Irma Valdés Arias",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Mediación Familiar, Región Metropolitana, Chile"
+    "meta_description": "Mediación Familiar en Santiago, Chile: Encuentra Soluciones para tus Conflictos"
   }
 }

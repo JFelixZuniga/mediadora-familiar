@@ -50,43 +50,6 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
     </div>
   </section>
 
-  <!-- Features -->
-  <section class="section bg-theme-light">
-    <div class="container">
-      <div class="text-center">
-        <h2>{markdownify(feature!.title)}</h2>
-      </div>
-      <div class="mt-8 grid gap-x-8 gap-y-6 sm:grid-cols-2 lg:grid-cols-3">
-        {
-          feature!.features.map((item: any, i: number) => (
-            <div class="feature-card rounded-xl bg-white p-5 pb-8 text-center">
-              {item.icon && (
-                // <Image
-                //   class="mx-auto"
-                //   src={item.icon}
-                //   width={30}
-                //   height={30}
-                //   alt=""
-                // />
-                <img
-                  class="mx-auto"
-                  alt={item.icon}
-                  src={item.icon}
-                  width={30}
-                  height={30}
-                />
-              )}
-              <div class="mt-4">
-                <p class="h5" set:html={markdownify(item!.name)} />
-                <p class="mt-3">{item.content}</p>
-              </div>
-            </div>
-          ))
-        }
-      </div>
-    </div>
-  </section>
-
   <!-- Services -->
   {
     services!.map((service: any, index: number) => {
@@ -152,6 +115,44 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
       );
     })
   }
+
+  <!-- Features -->
+  <section class="section bg-theme-light">
+    <div class="container">
+      <div class="text-center">
+        <h2>{markdownify(feature!.title)}</h2>
+      </div>
+      <div class="mt-8 grid gap-x-8 gap-y-6 sm:grid-cols-2 lg:grid-cols-3">
+        {
+          feature!.features.map((item: any, i: number) => (
+            <div class="feature-card rounded-xl bg-white p-5 pb-8 text-center">
+              {item.icon && (
+                // <Image
+                //   class="mx-auto"
+                //   src={item.icon}
+                //   width={30}
+                //   height={30}
+                //   alt=""
+                // />
+                <img
+                  class="mx-auto"
+                  alt={item.icon}
+                  src={item.icon}
+                  width={30}
+                  height={30}
+                />
+              )}
+              <div class="mt-4">
+                <p class="h5" set:html={markdownify(item!.name)} />
+                <p class="mt-3">{item.content}</p>
+              </div>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
 
   <script>
     import { Swiper } from "swiper";
