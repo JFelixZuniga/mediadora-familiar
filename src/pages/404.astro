@@ -1,5 +1,6 @@
 ---
 import Base from "@/layouts/Base.astro";
+import { Image } from "astro:assets";
 import { markdownify } from "@/lib/utils/textConverter";
 import { getEntryBySlug } from "astro:content";
 const entry = await getEntryBySlug("pages", "404");
@@ -7,12 +8,19 @@ const { Content } = await entry.render();
 ---
 
 <Base title={entry.data.title}>
-  <section class="section">
+  <section class="pt-14">
     <div class="container">
-      <div class="flex h-[40vh] items-center justify-center">
+      <div class="flex items-center justify-center">
         <div class="text-center">
-          <h1 class="mb-4" set:html={markdownify(entry.data.title)} />
-          <Content />
+          <div>
+            <Image
+              class=""
+              src="/images/404.png"
+              width={538}
+              height={328}
+              alt="Página no encontrada - 404"
+            />
+          </div>
         </div>
       </div>
     </div>
