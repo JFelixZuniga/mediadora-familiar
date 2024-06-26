@@ -12,7 +12,7 @@ La pensión de alimentos es un derecho fundamental establecido por ley en Chile,
 
 - Todos los hijos tienen derecho a recibir una pensión de alimentos hasta los 21 años de edad.
 - En el caso de los hijos que estudian, el pago de pensión de alimentos se extiende hasta los 28 años de edad.
-- En caso de que el hijo, hija o adolescente tenga alguna discapacidad física o mental, que le impida valerse por sí mismo, el derecho a la pensión de alimentos se extiende hasta la edad que determine el juez, considerando las necesidades específicas de la persona.
+- Si al hijo le afecta alguna incapacidad ya sea mental o física para subsistir por sí mismo o que el juez considere indispensable para su subsistencia, en este caso también se deberá pagar alimentos.
 
 ### ¿Cuánto se debe pagar por pensión de alimentos?
 
