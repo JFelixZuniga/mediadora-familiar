@@ -12,7 +12,7 @@ La pensión de alimentos es un derecho fundamental establecido por ley en Chile,
 
 - Todos los hijos tienen derecho a recibir una pensión de alimentos hasta los 21 años de edad.
 - En el caso de los hijos que estudian, el pago de pensión de alimentos se extiende hasta los 28 años de edad.
-- Si al hijo le afecta alguna incapacidad ya sea mental o física para subsistir por sí mismo o que el juez considere indispensable para su subsistencia, en este caso también se deberá pagar alimentos.
+- También le corresponde al hijo que le afecte una incapacidad física o mental que les impida subsistir por sí mismos, o que, por circunstancias calificadas, el juez los considere indispensables para su subsistencia.
 
 ### ¿Cuánto se debe pagar por pensión de alimentos?
 
@@ -21,13 +21,13 @@ Los montos mínimos de pensión de alimentos se establecen en base al Ingreso M�
 - **Un hijo**: 40% del IMR, equivalente a **$200.000**.
 - **Dos o más hijos**: 30% del IMR por cada hijo, equivalente a **$150.000** por cada uno.
 
-Es importante destacar que estos son solo montos mínimos, y el juez puede determinar un monto mayor si considera que las necesidades del hijo o hija así lo requieren. Además, los montos deben ser convertidos a UTM y pagados mensualmente según el valor de la UTM vigente.
+**Es importante destacar que estos montos mínimos son la base para llegar a un acuerdo y para ser aprobado por el tribunal competente. Además, los montos deben ser convertidos a UTM y pagados mensualmente según el valor de la UTM vigente.**
 
 ### ¿Cómo se fija la pensión de alimentos?
 
 La pensión de alimentos puede fijarse de dos maneras:
 
-- Por acuerdo entre los padres: Los padres pueden llegar a un acuerdo sobre el monto y forma de pago de la pensión de alimentos a través de la mediación, sin necesidad de acudir a un tribunal.
+- Por acuerdo entre los padres: Estos puedes llegar a un acuerdo sobre el monto y forma de pago de la pensión de alimentos a través de la mediación familiar o también a través de transacción. En ambos casos, este acuerdo debe ser presentado ante el tribunal correspondiente para que sea aprobado y tenga efecto de sentencia.
 - Por resolución judicial: Si los padres no logran llegar a un acuerdo, cualquiera de ellos puede presentar una demanda judicial para que el juez fije la pensión de alimentos. En este proceso, el juez evaluará las necesidades del hijo o hija, los ingresos de ambos padres y otros factores relevantes para determinar el monto y forma de pago de la pensión.
 
 ### ¿Qué pasa si no se paga la pensión de alimentos?

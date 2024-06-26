@@ -9,7 +9,7 @@ faqs:
   answer: Son profesionales especializados que facilitan el diálogo entre las personas que concurrieron al proceso de mediación. Son una figura neutral e imparcial que orientan a las partes para que encuentren una solución. Específicamente, los mediadores familiares son profesionales que han estudiado los modelos y técnicas de los procesos de mediación. Dichos programas incluyen contenidos tales como teoría de sistemas familiares, teoría de la comunicación, habilidades comunicacionales y derecho de familia. Para poder ejercer su rol, deben estar debidamente inscritos en el Registro de Mediadores/as que administra el Ministerio de Justicia y Derechos Humanos, a través de sus respectivas Secretarias Regionales Ministeriales.
 
 - title: ¿Qué materias se pueden tratar en mediación?
-  answer: "Las materias de mediación obligatoria son: los alimentos, la relación directa y regular (visitas), y el Cuidado personal (tuición)."
+  answer: "En general, diversas materias puedes regularse a través de la mediación, pero en materias obligatorias tenemos: Los Alimentos, la relación directa y regular (visitas) y el cuidado personal (tuición)."
 
 - title: ¿Si la mediación terminó siendo frustrada, cuál es el proceso a seguir?
   answer: El acta de mediación frustrada permite continuar la tramitación ante un Tribunal de Familia, para lo cual requerirá un abogado/a. Si no tiene los medios para contratar uno, puede solicitar asesoría jurídica gratuita en la Corporación de Asistencia Judicial. 
