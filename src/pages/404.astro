@@ -10,18 +10,17 @@ const { Content } = await entry.render();
 <Base title={entry.data.title}>
   <section class="pt-14">
     <div class="container">
+      <h1 class="text-center font-normal animate-fade-in-up animate-delay-500">
+        Página no encontrada
+      </h1>
       <div class="flex items-center justify-center">
-        <div class="text-center">
-          <div>
-            <Image
-              class=""
-              src="/images/404.png"
-              width={538}
-              height={328}
-              alt="Página no encontrada - 404"
-            />
-          </div>
-        </div>
+        <Image
+          class="pt-16"
+          src="/images/404.png"
+          width={538}
+          height={328}
+          alt="Página no encontrada - 404"
+        />
       </div>
     </div>
   </section>

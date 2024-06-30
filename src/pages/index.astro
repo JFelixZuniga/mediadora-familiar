@@ -15,15 +15,15 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
     <div class="container">
       <div class="row text-center">
         <div class="mx-auto lg:col-10">
-          <h1 class="font-primary font-bold">{banner?.title}</h1>
+          <h1 class="font-primary font-bold animate-fade-in-up animate-delay-500">{banner?.title}</h1>
           {
             banner?.content && (
-              <p class="mt-4 h5 font-bold" set:html={markdownify(banner.content)} />
+              <p class="mt-4 h5 font-bold animate-fade-in-right" set:html={markdownify(banner.content)} />
             )
           }
           {
             banner?.content && (
-              <p class="mt-4" set:html={markdownify(banner.content_two)} />
+              <p class="mt-4 animate-fade-in-left" set:html={markdownify(banner.content_two)} />
             )
           }
           {
