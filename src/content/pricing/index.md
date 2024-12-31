@@ -5,7 +5,7 @@ draft: false
 image: /images/video-call.svg
 texts:
 - title: Mediación con acuerdo 
-  text: "El servicio de mediación tiene un valor de $90.000, ya sea en el caso de existir un acuerdo total o parcial de las partes."
+  text: "El servicio de mediación tiene un valor de $100.000, ya sea en el caso de existir un acuerdo total o parcial de las partes."
 - title: Mediación frustrada
   text: "Si por el contrario, las partes no llegan a ningún acuerdo, el valor de la mediación frustrada es de $45.000."
 - title: "En que consiste el servicio"
